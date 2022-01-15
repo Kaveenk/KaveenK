@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning & Deep Learning !!!**
 
-- ⭐ Find me on LinkedIn [www.linkedin.com/in/chamodh-kaveen-perera-2018159a/](www.linkedin.com/in/chamodh-kaveen-perera-2018159a)
+- ⭐ Find me on LinkedIn [www.linkedin.com/in/chamodh-kaveen-perera-2018159a/](www.linkedin.com/in/chamodh-kaveen-perera-2018159a/)
 
 - 💬 Ask me about **Statistics, R Programming and Data Science Concepts !!!**
 
