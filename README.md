@@ -13,9 +13,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="70" height="70"/> </a>
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.rstudio.com/assets/img/logo.svg" alt="r" width="100" height="100"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="70" height="70"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> 
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="powerbi" width="70" height="70"/> </a> 
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="100" height="100"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> 
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" alt="powerbi" width="100" height="100"/> </a> 
 </p>
