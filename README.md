@@ -1,12 +1,10 @@
 # Hi 👋, I'm Chamodh Kaveen Perera
 
-### Data Analyst | Senior Business Analyst
+### Data Analyst | Business Intelligence | Senior Business Analyst
 
 I am a data and business analytics professional with experience transforming complex business data into actionable insights, reporting solutions, and decision-support tools.
 
 My background spans **data analytics, business analysis, insurance analytics, sales performance, operational reporting, and statistical analysis**. I enjoy solving business problems by combining data, analytical thinking, and technology.
-
-My current focus is expanding my analytics toolkit with **Python, Tableau, Machine Learning, and AI-assisted analytics**, while continuing to strengthen my expertise in SQL, business intelligence, and data-driven decision making.
 
 ---
 
@@ -27,37 +25,37 @@ In my recent analytics work, I have:
 
 ### Insurance & Business Analysis
 
-My earlier experience includes business and statistical analysis within the insurance industry, where I worked with:
+My earlier experience includes business and statistical analysis within the insurance industry, including:
 
 - Business performance reporting
 - Statistical analysis
-- Insurance and operational data
+- Insurance and operational data analysis
 - Predictive and analytical modeling
 - Management reporting
 - Process improvement
-- Junior analyst and database administration support
+- Supporting junior reporting and database administration functions
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Data Analysis & Programming**
+### Data Analysis & Programming
 
 `SQL` • `R` • `Python` • `Statistical Analysis` • `Data Cleaning` • `Exploratory Data Analysis`
 
-**Business Intelligence & Visualization**
+### Business Intelligence & Visualization
 
 `Power BI` • `Tableau` • `Excel` • `Dashboard Development` • `KPI Reporting`
 
-**Databases & Data Tools**
+### Databases & Data Tools
 
-`PostgreSQL` • `BigQuery` • `Snowflake` • `dbt`
+`PostgreSQL` • `Git` • `GitHub`
 
-**Analytics & Business**
+### Analytics & Business
 
 `Business Analysis` • `Business Intelligence` • `Data Visualization` • `Performance Analytics` • `Process Improvement` • `Statistical Modeling`
 
-**AI & Modern Analytics Tools**
+### AI & Modern Analytics Tools
 
 `ChatGPT` • `Claude` • `Gemini` • `Cursor` • `AI-Assisted Analytics`
 
@@ -113,12 +111,12 @@ My long-term focus is at the intersection of **Data, Business Intelligence, Stat
 
 ---
 
-## 🎓 Background
+## 🎓 Education & Background
 
 - **B.Sc. Special Degree in Statistics**
 - **Bachelor of Engineering in Electronic Engineering**
 
-My statistics background provides a strong foundation in analytical thinking, while my engineering and business experience help me approach problems from both technical and operational perspectives.
+My statistics background provides a strong foundation in analytical thinking, while my engineering and business experience helps me approach problems from both technical and operational perspectives.
 
 ---
 
@@ -140,7 +138,7 @@ I'm open to opportunities in:
 
 Feel free to connect with me:
 
-- 💼 LinkedIn: [Chamodh Kaveen Perera](https://www.linkedin.com/in/chamodh-kaveen-perera-2018159a)
+- 💼 [LinkedIn: Chamodh Kaveen Perera](https://www.linkedin.com/in/chamodh-kaveen-perera-2018159a)
 
 ---
 
