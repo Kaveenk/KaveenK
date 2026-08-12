@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chamodh Kaveen Perera
 
-### Data Analyst | Business Intelligence | Senior Business Analyst | SQL | Power BI | Statistics
+### Data Analyst | Senior Business Analyst
 
 I am a data and business analytics professional with experience transforming complex business data into actionable insights, reporting solutions, and decision-support tools.
 
